@@ -51,6 +51,14 @@ export default {
       percentage: "90",
     },
   ],
+projects: {
+    web: [
+    ],
+    literature: [
+    ],
+    freelance: [
+    ],
+  },
     experience: [
     {
       title: "ADUL Asociación de Docentes de la Universidad Nacional del Litoral",
