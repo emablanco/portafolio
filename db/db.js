@@ -1,19 +1,19 @@
 export default {
   skills: [
     {
-      title: "Frontend",
+      title: "Hardware",
       skillName: "Arduino ",
       color: "1",
-      percentage: "80",
-    },
-    {
-      title: "Frameworks/Libraries",
-      skillName: "Centos",
-      color: "2",
       percentage: "60",
     },
     {
-      title: "Backend",
+      title: "Operating/system ",
+      skillName: "Debian , Centos",
+      color: "2",
+      percentage: "80",
+    },
+    {
+      title: "programation/git",
       skillName: "C++, Python, Git, Markdown",
       color: "3",
       percentage: "75",
@@ -46,7 +46,7 @@ export default {
 
     {
       title: "Systems",
-      skillName: "Windows Desktop, GNU/Linux",
+      skillName: "GNU/Linux, Windows Desktop,",
       color: "8",
       percentage: "90",
     },
