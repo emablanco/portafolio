@@ -53,7 +53,7 @@ export default {
   ],
   experience: [
     {
-      title: "ADUL - Asociación de Docentes de la Universidad Nacional del Litoral",
+      title: "ADUL Asociación de Docentes de la Universidad Nacional del Litoral",
       duration: "Marzo. 2021 - Diciembre. 2021",
       subtitle: "Técnico de soporte de TI",
       details: [
@@ -69,8 +69,8 @@ export default {
       ],
     },
     {
-      title: "Servicio Tecnico - UNL",
-      duration: "Mar. 2019 - Jun. 2019",
+      title: "Servicio Tecnico UNL",
+      duration: "2016 - 2020",
       subtitle: "Servicio Tecnico - ad honorem",
       details: [
         "Administración GNU/Linux, Administración Windows, instalación y optimización de software, creación de políticas de seguridad, Servicio de Alojamiento de archivos, multimedia, VPN, Instalación de rede informatica",
@@ -94,16 +94,11 @@ export default {
         "Formación Profecional  en plataformas del ámbito tecnológico.",
       ],
       tags: [
-        "Windows",
-        "Antivirtus",
-        "Hardware",
-        "Software",
-        "Redes",
-        "Virus",
+        "Windows", "Antivirtus","Hardware","Software","Redes","Virus",
       ],
     },
     {
-      title: "Tecnicatura Mecatronica - UTN. Inicio de los estudios.",
+      title: "Tecnicatura Mecatronica - Inicio de los estudios",
       duration: "2022 - 2022",
       subtitle: "Universidad Tecnológica Nacional (Facultad regional de Santa Se)",
       details: [
