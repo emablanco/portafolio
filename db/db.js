@@ -53,66 +53,10 @@ export default {
   ],
   projects: {
     web: [
-      {
-        projectName: "Página Web",
-        image: "images/portfolio_arturocode.jpg",
-        summary:
-          "Página web que he diseñado con varias secciones para recoger mi formación, experiencia y proyectos como desarrollador web.",
-        preview: "https://arturocode.github.io/",
-        techStack: ["HTML", "Bootstrap", "CSS", "JavaScript"],
-      },
-      {
-        projectName: "Linktree (Arturo's Version)",
-        image: "images/portfolio_linktree.png",
-        summary:
-          "Una One-Page sencilla y adaptada a mis redes y proyectos como desarrollador web. Alternativa a sitios de empresas como Linktree o Carrd.",
-        preview: "https://arturocode.github.io/links/",
-        techStack: ["HTML", "CSS", "Bootstrap", "Alternative:", "Linktree", "Carrd"],
-      },
-      {
-        projectName: "Galería de Cursos",
-        image: "images/portfolio_galeriacursos.png",
-        summary:
-          "Una portfolio al estilo de una galería de imágenes resonsive para acceder a los cursos que he realizado y sus diplomas.",
-        preview: "https://arturocode.github.io/cursos/",
-        techStack: ["HTML", "CSS", "Portfolio", "Gallery-Images"],
-      },
     ],
     literature: [
-      {
-        projectName: "Flights of a Dreamer",
-        image: "images/portfolio_flightsdreamer.png",
-        summary:
-          "Blog literario ganador de los Premios Blogger Lit Con 2017 a Mejor Blog, Mejor Diseño y Blog más constante.",
-        preview: "http://www.flightsofadreamer.blogspot.com",
-        techStack: ["HTML", "CSS", "Blogger", "JavaScript"],
-      },
-      {
-        projectName: "Arturo Urbanos - Wordpress",
-        image: "images/portfolio_arturourbanos.png",
-        summary:
-          "Página web como autor, redactor y lector profesional con información de obras, eventos, actualizaciones y más.",
-        preview: "https://arturourbanosv.wordpress.com/",
-        techStack: ["Wordpress"],
-      },
-      {
-        projectName: "Arturo Urbanos - Carrd",
-        image: "images/portfolio_carrd.png",
-        summary:
-          "He hecho varias One-Pages sencillas y responsive con la información a un solo click. Esta es la que uso para mi trabajo literario.",
-        preview: "https://arturourbanos.carrd.co/",
-        techStack: ["Carrd"],
-      },
     ],
     freelance: [
-      {
-        projectName: "Lorem Ipsum",
-        image: "",
-        summary:
-          "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
-        preview: "",
-        techStack: [""],
-      },
     ],
   },
     experience: [
@@ -162,11 +106,14 @@ export default {
       ],
     },
     {
-      title: "Tecnicatura Mecatronica - Inicio de los estudios",
+      title: "Tecnicatura Mecatronica Inicio de los estudios",
       duration: "2022 - 2022",
       subtitle: "Universidad Tecnológica Nacional (Facultad regional de Santa Se)",
       details: [
         "Electrónica, Mecánica, Electrotecnia e Informática.",
+      ],
+     tags: [
+        "Windows", "Antivirtus","Hardware","Software","Redes","Virus",
       ],
     },
     {
@@ -174,14 +121,10 @@ export default {
       duration: "Marzo 2017 - Diciembre 2021 ",
       subtitle: "UNL - FICH",
       details: [
-        "Administración de sistemas GNU/Linux y servicios de red en entornos libres. Instalación y configuración de sistemas de bases de datos con Tecnologías de software libre. Participación en equipos de trabajo para análisis, desarrollo e implementación de soluciones de software libre.",
+        "Administración de sistemas GNU/Linux y servicios de red en entornos libres.", " Instalación y configuración de sistemas de bases de datos con Tecnologías de software libre.", " Participación en equipos de trabajo para análisis, desarrollo e implementación de soluciones de software libre.",
       ],
       tags: [
-        "GNU",
-        "Linux",
-        "Hardware Libre",
-        "Software Libre",
-        "Redes",
+        "GNU", "Linux", "Hardware Libre","Software Libre", "Redes",
       ],
     },
   ],
