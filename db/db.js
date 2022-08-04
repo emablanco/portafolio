@@ -2,7 +2,7 @@ export default {
   skills: [
     {
       title: "Frontend",
-      skillName: "Debian ",
+      skillName: "Arduino ",
       color: "1",
       percentage: "80",
     },
@@ -51,14 +51,6 @@ export default {
       percentage: "90",
     },
   ],
-  projects: {
-    web: [
-    ],
-    literature: [
-    ],
-    freelance: [
-    ],
-  },
     experience: [
     {
       title: "ADUL Asociación de Docentes de la Universidad Nacional del Litoral",
