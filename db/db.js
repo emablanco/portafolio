@@ -2,191 +2,127 @@ export default {
   skills: [
     {
       title: "Frontend",
-      skillName: "Java, JavaScript",
+      skillName: "Debian ",
       color: "1",
       percentage: "80",
     },
     {
       title: "Frameworks/Libraries",
-      skillName: "Symfony",
+      skillName: "Centos",
       color: "2",
       percentage: "60",
     },
     {
       title: "Backend",
-      skillName: "SQL, PHP, Python, Git, Markdown",
+      skillName: "C++, Python, Git, Markdown",
       color: "3",
       percentage: "75",
     },
     {
       title: "Design",
-      skillName: "HTML, Bootstrap, XML, CSS, SASS",
+      skillName: "HTML, CSS",
       color: "4",
-      percentage: "85",
+      percentage: "60",
     },
     {
       title: "Tools",
-      skillName: "GitHub, npm, Postman, DevTools, Slack",
+      skillName: "GitHub, Gitlab",
       color: "5",
       percentage: "75",
     },
     {
       title: "Editor",
-      skillName: "VSCode, Notepad++, Eclipse IDE, XAMPP",
+      skillName: "VSCode, Atom, NeoVim, Vim",
       color: "6",
       percentage: "80",
     },
 
     {
       title: "Applications",
-      skillName: "Notion, Office, Canva, Figma, Cloud Storage",
+      skillName: "Notion, Office, Latex",
       color: "7",
       percentage: "80",
     },
 
     {
       title: "Systems",
-      skillName: "Windows Server/Desktop, Linux (Ubuntu, Mint)",
+      skillName: "Windows Desktop, GNU/Linux",
       color: "8",
-      percentage: "85",
+      percentage: "90",
     },
   ],
-  projects: {
-    web: [
-      {
-        projectName: "Portfolio Web",
-        image: "images/portfolio.png",
-        summary:
-          "Portfolio para mostrar información personal, habilidades, proyectos, experiencia y cursos, y contacto en una sola página web de forma cómoda.",
-        preview: "https://github.com/ArturoCode/arturocode.github.io",
-        techStack: ["HTML", "Bootstrap", "CSS", "JavaScript", "PHP"],
-      },
-      {
-        projectName: "ArturoCode - Linktree",
-        image: "images/linktree.jpg",
-        summary:
-          "Una One-Page sencilla y adaptada a mis redes y proyectos como desarrollador web. Alternativa a los sitios de empresas como Linktree o Carrd.",
-        preview: "https://arturocode.github.io/links/",
-        techStack: ["HTML", "CSS", "Bootstrap", "Alternative:", "Linktree", "Carrd"],
-      },
-    ],
-    literature: [
-      {
-        projectName: "Flights of a Dreamer",
-        image: "images/flightsofadreamer.png",
-        summary:
-          "Blog literario ganador de los Premios Blogger Lit Con 2017 a Mejor Blog, Mejor Diseño y Blog más constante.",
-        preview: "http://www.flightsofadreamer.blogspot.com",
-        techStack: ["HTML", "CSS", "Blogger", "JavaScript"],
-      },
-      {
-        projectName: "Arturo Urbanos - Wordpress",
-        image: "images/arturourbanos.png",
-        summary:
-          "Página web como autor, redactor y lector profesional con información de obras, eventos, actualizaciones y más.",
-        preview: "https://arturourbanosv.wordpress.com/",
-        techStack: ["Wordpress"],
-      },
-      {
-        projectName: "Arturo Urbanos - Carrd",
-        image: "images/carrd.jpg",
-        summary:
-          "He hecho varias One-Pages sencillas y responsive con la información a un solo click. Esta es la que uso para mi trabajo literario.",
-        preview: "https://arturourbanos.carrd.co/",
-        techStack: ["Carrd"],
-      },
-    ],
-    freelance: [
-      {
-        projectName: "Lorem Ipsum",
-        image: "",
-        summary:
-          "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
-        preview: "",
-        techStack: [""],
-      },
-    ],
-  },
   experience: [
     {
-      title: "AlcalaBC - Colegio de Registradores de España",
-      duration: "Jun. 2019 - Jul. 2019",
+      title: "ADUL - Asociación de Docentes de la Universidad Nacional del Litoral",
+      duration: "Marzo. 2021 - Diciembre. 2021",
       subtitle: "Técnico de soporte de TI",
       details: [
-        "Soporte técnico de programas (Deposito digital D2, Legalia, Internet Explorer, Java) y el funcionamiento relacionado con el portal del Colegio de Registradores de España (http://www.registradores.org/)",
+        "Soporte técnico (Administracion GNU/Linux, Administración de Windows) y mantenimiento de los equipos informaticos de los docentes universitarios (https://adul.org.ar/)",
       ],
       tags: [
+        "GNU/Linux",
         "Windows",
-        "Java",
-        "Internet Explorer",
-        "Legalia",
-        "Deposito Digital D2",
-        "Registradores",
+        "Python",
+        "Libre Office",
+        "Latex",
+        "Anydex",
       ],
     },
     {
-      title: "Serconi S.L.",
+      title: "Servicio Tecnico - UNL",
       duration: "Mar. 2019 - Jun. 2019",
-      subtitle: "Técnico informático. Contrato de prácticas",
+      subtitle: "Servicio Tecnico - ad honorem",
       details: [
-        "Servicios de consultoría informática",
-        "Soporte remoto a la hora de resolver problemas informáticos a clientes, optimización de software e información, creación de políticas de gestión de ficheros...",
+        "Administración GNU/Linux, Administración Windows, instalación y optimización de software, creación de políticas de seguridad, Servicio de Alojamiento de archivos, multimedia, VPN, Instalación de rede informatica",
       ],
       tags: [
+        "GNU/Linux",
         "Windows",
-        "Ubuntu",
-        "Thunderbird",
         "Backup",
-        "Office",
-        "Soporte Técnico",
-        "Programas",
+        "VPN",
+        "Servidor",
+        "Redes",
       ],
     },
   ],
   education: [
-    {
-      title: "Desarrollo de Aplicaciones Web",
-      duration: "2021 - actualidad",
-      subtitle: "IES Juan de la Cierva, Madrid",
+   {
+      title: "Formación Profesional Armado, Configuración y Mantenimiento de Computadoras ",
+      duration: "Marzo 2016 - Diciembre 2016 ",
+      subtitle: "UNL - FICH",
       details: [
-        "Desarrollo, implementación y mantenimiento de aplicaciones web. Programación Java, JavaScript, PHP. Diseño de interfaces web. Instalación de Sistemas en Red. Bases de datos, Lenguajes de Marcas.",
+        "Formación Profecional  en plataformas del ámbito tecnológico.",
       ],
       tags: [
-        "Windows", "Ubuntu",
-        "HTML", "CSS", "LESS", "SASS", "Bootstrap",
-        "Java", "JavaScript",
-        "SQL", "PHP", "Symfony",
-      ],
-    },
-    {
-      title: "Formación complementaria",
-      duration: "2020 - actualidad",
-      subtitle: "Open Webinars, Crehana, Platzi",
-      details: [
-        "Formación complementaria en plataformas de educación del ámbito tecnológico. He realizado cursos y proyectos de NPM, Asincronismo JS, Responsive Deign, Git, Markdown, Python y más.",
-      ],
-      tags: [
-        "Python",
-        "GIT",
-        "Markdown",
-        "NPM",
-        "Asincronismo JS",
-        "Responsive Design",
-      ],
-    },
-    {
-      title: "Sistemas Microinformáticos y Redes",
-      duration: "2017 - 2019",
-      subtitle: "IES Juan de la Cierva, Madrid",
-      details: [
-        "Instalación y configuración de sistemas microinformáticos y redes. Montaje, mantenimiento y seguridad. Instalación y confguración de programas, servicios de ofimática y aplicaciones web.",
-      ],
-      tags: [
-        "Windows", "Linux",
+        "Windows",
+        "Antivirtus",
+        "Hardware",
+        "Software",
         "Redes",
-        "Ofimática",
-        "Montaje",
-        "HTML", "CSS", "XML", "Notepad++", "Joomla",
+        "Virus",
+      ],
+    },
+    {
+      title: "Tecnicatura Mecatronica - UTN. Inicio de los estudios.",
+      duration: "2022 - 2022",
+      subtitle: "Universidad Tecnológica Nacional (Facultad regional de Santa Se)",
+      details: [
+        "Electrónica, Mecánica, Electrotecnia e Informática.",
+      ],
+    },
+    {
+      title: "Técnico Universitario en Software Libre",
+      duration: "Marzo 2017 - Diciembre 2021 ",
+      subtitle: "UNL - FICH",
+      details: [
+        "Administración de sistemas GNU/Linux y servicios de red en entornos libres. Instalación y configuración de sistemas de bases de datos con Tecnologías de software libre. Participación en equipos de trabajo para análisis, desarrollo e implementación de soluciones de software libre.",
+      ],
+      tags: [
+        "GNU",
+        "Linux",
+        "Hardware Libre",
+        "Software Libre",
+        "Redes",
       ],
     },
   ],
