@@ -105,26 +105,35 @@ export default {
         "Windows", "Antivirtus","Hardware","Software","Redes","Virus",
       ],
     },
-    {
-      title: "Tecnicatura Mecatronica Inicio de los estudios",
-      duration: "2022 - 2022",
-      subtitle: "Universidad Tecnológica Nacional (Facultad regional de Santa Se)",
+      {
+      title: "Formación complementaria",
+      duration: "2020 - actualidad",
+      subtitle: "OpenWebinars, Platzi, Crehana...",
       details: [
-        "Electrónica, Mecánica, Electrotecnia e Informática.",
+        "Formación complementaria en varias plataformas de educación del ámbito tecnológico. Puedes consultarla en arturocode.github.io/cursos/",
       ],
-     tags: [
-        "Windows", "Antivirtus","Hardware","Software","Redes","Virus",
+      tags: [
+        "Python",
+        "GIT",
+        "Markdown",
+        "NPM",
+        "Asincronismo JS",
+        "Responsive Design",
       ],
     },
     {
-      title: "Técnico Universitario en Software Libre",
-      duration: "Marzo 2017 - Diciembre 2021 ",
-      subtitle: "UNL - FICH",
+      title: "Sistemas Microinformáticos y Redes",
+      duration: "2017 - 2019",
+      subtitle: "IES Juan de la Cierva, Madrid",
       details: [
-        "Administración de sistemas GNU/Linux y servicios de red en entornos libres.", " Instalación y configuración de sistemas de bases de datos con Tecnologías de software libre.", " Participación en equipos de trabajo para análisis, desarrollo e implementación de soluciones de software libre.",
+        "Instalación y configuración de sistemas microinformáticos y redes. Montaje, mantenimiento y seguridad. Instalación y confguración de programas, servicios de ofimática y aplicaciones web.",
       ],
       tags: [
-        "GNU", "Linux", "Hardware Libre","Software Libre", "Redes",
+        "Windows", "Linux",
+        "Redes",
+        "Ofimática",
+        "Montaje",
+        "HTML", "CSS", "XML", "Notepad++", "Joomla",
       ],
     },
   ],
