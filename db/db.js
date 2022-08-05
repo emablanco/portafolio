@@ -106,19 +106,17 @@ projects: {
       ],
     },
       {
-      title: "Formación complementaria",
-      duration: "2020 - actualidad",
-      subtitle: "OpenWebinars, Platzi, Crehana...",
+      title: "Tecnicatura Mecatronica",
+      duration: "2022 - Inicio de los estudios",
+      subtitle: "Universidad Tecnológica Nacional - UTN.",
       details: [
-        "Formación complementaria en varias plataformas de educación del ámbito tecnológico. Puedes consultarla en arturocode.github.io/cursos/",
+        "Electrónica, Mecánica, Electrotecnia e Informática.",
       ],
       tags: [
-        "Python",
-        "GIT",
-        "Markdown",
-        "NPM",
-        "Asincronismo JS",
-        "Responsive Design",
+        "PCB",
+        "Microcontroladores",
+        "Circuitos",
+        "Electronica",
       ],
     },
     {
@@ -135,11 +133,11 @@ projects: {
         " Participación en equipos de trabajo para análisis, desarrollo e implementación de soluciones de software libre."  
       ],
       tags: [
-        "Windows", "Linux",
+        "Linux",
         "Redes",
         "Ofimática",
         "Montaje",
-        "HTML", "CSS", "XML", "Notepad++", "Joomla",
+        "HTML", "CSS", "GIT", "Python", "GNU/Linux","SQL","PHP","Apache","KVM",
       ],
     },
   ],
