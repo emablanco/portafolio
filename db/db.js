@@ -39,9 +39,9 @@ export default {
 
     {
       title: "Applications",
-      skillName: "Notion, Office, Latex",
+      skillName: "Docker, Latex",
       color: "7",
-      percentage: "80",
+      percentage: "70",
     },
 
     {
