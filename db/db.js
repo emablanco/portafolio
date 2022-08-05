@@ -122,11 +122,17 @@ projects: {
       ],
     },
     {
-      title: "Sistemas Microinformáticos y Redes",
-      duration: "2017 - 2019",
-      subtitle: "IES Juan de la Cierva, Madrid",
+      title: "Técnico Software Libre",
+      duration: "2017 - 2021",
+      subtitle: "Administración GNU/Linux",
       details: [
-        "Instalación y configuración de sistemas microinformáticos y redes. Montaje, mantenimiento y seguridad. Instalación y confguración de programas, servicios de ofimática y aplicaciones web.",
+        " Administración de sistemas GNU/Linux y servicios de red en entornos libres.",
+        " Instalación y configuración de sistemas microinformáticos y redes.",
+        " Montaje, mantenimiento y seguridad.",
+        " Instalación y confguración de programas.",
+        " Servicios de ofimática y aplicaciones web.",
+        " Instalación y configuración de sistemas de bases de datos con tecnologías de software libre.",
+        " Participación en equipos de trabajo para análisis, desarrollo e implementación de soluciones de software libre."  
       ],
       tags: [
         "Windows", "Linux",
