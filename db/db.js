@@ -145,7 +145,7 @@ projects: {
       duration: "20221 - Actualidad",
       subtitle: "UNL - FICH",
       details: [
-        "Por el momento solo estoy realizando las materias del ingreso y porgramación",
+        "Por el momento solo estoy realizando las materias del ingreso y programación",
       ],
       tags: [
         "C++",
