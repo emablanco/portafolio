@@ -122,7 +122,7 @@ projects: {
     {
       title: "Técnico Software Libre",
       duration: "2017 - 2021",
-      subtitle: "Administración GNU/Linux",
+      subtitle: "UNL - FICH",
       details: [
         " Administración de sistemas GNU/Linux y servicios de red en entornos libres.",
         " Instalación y configuración de sistemas microinformáticos y redes.",
@@ -138,6 +138,17 @@ projects: {
         "Ofimática",
         "Montaje",
         "HTML", "CSS", "GIT", "Python", "GNU/Linux","SQL","PHP","Apache","KVM",
+      ],
+    },
+    {
+      title: "ING Informática",
+      duration: "20221 - Actualidad",
+      subtitle: "UNL - FICH",
+      details: [
+        "Por el momento solo estoy realizando las materias del ingreso y porgramación",
+      ],
+      tags: [
+        "C++",
       ],
     },
   ],
