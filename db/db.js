@@ -7,10 +7,10 @@ export default {
       percentage: "60",
     },
     {
-      title: "Operating/system ",
-      skillName: "Debian , Centos",
+      title: "Base/Datos ",
+      skillName: "MySQL , MariaDB",
       color: "2",
-      percentage: "80",
+      percentage: "70",
     },
     {
       title: "programation/git",
